@@ -15,7 +15,7 @@ Learn how to efficiently bring Retrieval Augmented Generation (RAG) into product
 
 https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/
 
-$$ Resource Links
+## Resource Links
 
 - LlamaIndex - Data Framework for LLM Applications - https://www.llamaindex.ai/
 - TruEra - leader in ML monitoring, testing, and quality management - https://truera.com/
