@@ -18,6 +18,7 @@ sentence-transformers = "^2.3.1"
 matplotlib = "^3.8.2"
 trulens = "^0.13.4"
 trulens-eval = "^0.22.0"
+pydantic-settings = "^2.1.0"
 
 
 [build-system]
