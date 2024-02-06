@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "rag-llamaindex"
+version = "0.1.0"
+description = "An environment to build a RAG system with LlaMaIndex"
+authors = ["Tai Le"]
+readme = "README.md"
+packages = [{include = "rag_llamaindex"}]
+
+[tool.poetry.dependencies]
+python = ">=3.9, <3.9.7"
+llama-index = "^0.9.43"
+openai = "^1.11.1"
+pypdf = "^4.0.1"
+ipykernel = "^6.29.0"
+transformers = "^4.37.2"
+torch = "^2.2.0"
+sentence-transformers = "^2.3.1"
+matplotlib = "^3.8.2"
+trulens = "^0.13.4"
+trulens-eval = "^0.22.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
